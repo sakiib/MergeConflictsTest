@@ -1,2 +1,3 @@
 index.txt on master initial commit
 feature-1 added from feature-1 branch
+now working directly on master on this feature
