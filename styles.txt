@@ -1,2 +1,6 @@
 styles.txt on master initial commit
+<<<<<<< HEAD
 feature-1 added from feature-1 branch
+=======
+added a new line on line-2 in feature-2 branch
+>>>>>>> feature-2
