@@ -1,2 +1,2 @@
 index.txt on master initial commit
-added a new line in feature-2 branch
+added a new line on line-2 in feature-2 branch
